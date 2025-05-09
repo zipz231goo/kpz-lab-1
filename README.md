@@ -15,7 +15,7 @@ Each class has one responsibility:
 - `Warehouse.cs`: manages storage and quantity.
 - `Reporting.cs`: handles reporting and operations logging.
 
-Example: [`Money.cs`](./ConsoleApp/Money.cs), [`Product.cs`](./ConsoleApp/Product.cs), [`Warehouse.cs`](./ConsoleApp.cs)
+Example: [`Money.cs`](./ConsoleApp/Money.cs), [`Product.cs`](./ConsoleApp/Product.cs), [`Warehouse.cs`](./ConsoleApp/Warehouse.cs)
 
 ---
 
